@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wordcraft-api", "wordcraft-api\wordcraft-api.csproj", "{1073A1B7-6540-4E6A-89A8-71D5A4576A49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1073A1B7-6540-4E6A-89A8-71D5A4576A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1073A1B7-6540-4E6A-89A8-71D5A4576A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1073A1B7-6540-4E6A-89A8-71D5A4576A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1073A1B7-6540-4E6A-89A8-71D5A4576A49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4293DD72-021D-494E-94E4-EF4BB80BC3DE}
+	EndGlobalSection
+EndGlobal
